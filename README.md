@@ -1,2 +1,3 @@
 # Falcon
-Sequence Alignment Tool for Next Generation Sequencing data
+Sequence Alignment Tool for Next Generation Sequencing data.
+Updates coming soon...
